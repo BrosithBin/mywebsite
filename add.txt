@@ -1,0 +1,7 @@
+add
+---
+
+1. dist folder and inside dist add index.html and about.html 
+   each of html file add some basic code
+2. run [ npm init -y ] to not enter anything or choose default
+3. run [ npm i gh-pages ]
