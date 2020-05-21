@@ -4,18 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    /* add 2 remove */
-    // "test": "echo \"Error: no test specified\" && exit 1"
-    /**/
-    /* add 3 script */
     "deploy": "gh-pages -d dist"
-    /**/
   },
   "author": "",
   "license": "ISC",
-  /* add 1 */
   "homepage": "https://BrosithBin.github.io/mywebsite",
-  /**/
   "dependencies": {
     "gh-pages": "^2.2.0"
   }

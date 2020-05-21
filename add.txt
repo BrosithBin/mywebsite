@@ -1,0 +1,13 @@
+add
+---
+
+1. go to github.com and create new repo call "mywebsite" name of repo need to match 
+   to project
+2. create .gitignore in the root directory because we don't want the node_module 
+   being push to our repo , so inside .gitignore just write or put node_module
+3. run [ git init ] to initailize repo
+4. git add . 
+5. git commit -m "initial commit"
+6. add remote run this command 
+   [ git remote add origin git@github.com:BrosithBin/mywebsite.git ]
+7. run [ git push -u origin 1.1 ] to github
